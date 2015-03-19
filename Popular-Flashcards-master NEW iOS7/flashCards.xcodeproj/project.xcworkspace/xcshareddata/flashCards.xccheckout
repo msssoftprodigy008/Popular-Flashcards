@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>450C2E77-2B03-4580-BE37-7909548DB98B</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C36BB8B496A81656810CFA061B2A15F4645352A</key>
+		<string>https://github.com/ragan2328/Popular-Flashcards.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C36BB8B496A81656810CFA061B2A15F4645352A</key>
+		<string>Popular-Flashcards/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ragan2328/Popular-Flashcards.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C36BB8B496A81656810CFA061B2A15F4645352A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C36BB8B496A81656810CFA061B2A15F4645352A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Popular-Flashcards</string>
+		</dict>
+	</array>
+</dict>
+</plist>
